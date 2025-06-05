@@ -32,11 +32,11 @@
 
 ## 💻 Software Engineering Projects
 
-- [**NutriBoost**](https://github.com/VaishnaviApsingkar/NutriBoost)  
-  Full-stack nutrition tracking app using Java, AngularJS, PostgreSQL, and Spring Boot.
-
 - [**SmartCartOnlineStoreSystem**](https://github.com/VaishnaviApsingkar/SmartCartOnlineStoreSystem)  
   Simulated online shopping platform built with Java.
+
+- [**NutriBoost**](https://github.com/VaishnaviApsingkar/NutriBoost)  
+  Full-stack nutrition tracking app using Java, AngularJS, PostgreSQL, and Spring Boot.
 
 ---
 
