@@ -43,7 +43,7 @@
 ## 🎨 UI/UX Design Projects:
 
 - [**HealthyMe**](https://github.com/VaishnaviApsingkar/HealthyMe)  
-  Focused on front-end interactivity and clean user experience for health data input.
+  Focused on front-end interactivity and clean user experience for health data input using Adobe XD.
 
 ---
 
