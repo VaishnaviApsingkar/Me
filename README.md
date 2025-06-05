@@ -52,8 +52,8 @@
 - [**FinanceGenie AI**](https://github.com/VaishnaviApsingkar/FinanceGenie_AI)  
   AI-driven finance assistant using OpenAI GPT-3.5 and Flask for intelligent query responses.
 
-- [**Banking Subscription Prediction**](https://github.com/VaishnaviApsingkar/Banking-Subscription-Prediction)  
-  Ensemble ML model (Logistic Regression, Random Forest, Gradient Boosting) with ROC-AUC 0.83.
+- [**Diabetes Prediction**](https://github.com/VaishnaviApsingkar/Diabetes_Prediction)  
+  Built a machine learning model to predict diabetes likelihood using logistic regression and health indicators.
 
 ---
 
