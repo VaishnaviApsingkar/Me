@@ -73,7 +73,7 @@
 ## 📬 Connect With Me
 
 - 📧 [vaishnaviapsingkar@gmail.com](mailto:vaishnaviapsingkar@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-apsingkar)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnaviapsingkar/)
 - 💻 [GitHub](https://github.com/VaishnaviApsingkar)  
 
 ---
