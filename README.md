@@ -45,6 +45,9 @@
 - [**HealthyMe**](https://github.com/VaishnaviApsingkar/HealthyMe)  
   Focused on front-end interactivity and clean user experience for health data input using Adobe XD.
 
+- [**Reskinning Inshorts: UI-UX Case Study**](https://www.figma.com/proto/MT9XLALKw9MfHjsVxotrzu/Apsingkar_AR_Iteration-4?node-id=166-174&starting-point-node-id=166%3A174)   
+  Redesigned the Inshorts news app interface by applying user-centered design principles and modern UI/UX best practices using Figma, improving visual hierarchy, accessibility, and user flow consistency. 
+
 ---
 
 ## 🤖 Data Science / Machine Learning / AI Projects
