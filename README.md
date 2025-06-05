@@ -59,6 +59,9 @@
 
 ## 📈 Data Analysis & BI Projects
 
+- [**Sales Performance Dashboard**](https://github.com/VaishnaviApsingkar/Sales_Performance_Dashboard)  
+  Built an interactive Power BI dashboard to visualize and analyze sales KPIs including revenue trends, top-performing products, and regional performance. Enabled data-driven insights and improved decision-making.
+
 - [**TruckMaster DB**](https://github.com/VaishnaviApsingkar/TruckMasterDB)  
   Relational database design project using SQL Server and ERWin for logistics management.
 
