@@ -6,6 +6,21 @@
 🧠 Passionate about building scalable systems & extracting insights from data
 
 ---
+## 📘 Coding Practice:
+
+- LeetCode
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-vapsing-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/vapsing/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vapsing?theme=light&font=Source%20Code%20Pro&ext=activity)](https://leetcode.com/u/vapsing/)
+
+- HackerRank
+  
+[![HackerRank](https://img.shields.io/badge/HackerRank-vaishnaviapsing1-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vaishnaviapsing1)
+
+![Hackerrank stats](https://github.com/VaishnaviApsingkar/VaishnaviApsingkar/blob/main/hackerrank_stats.png)
+
+---
 
 ## 🚀 Technical Skills
 
