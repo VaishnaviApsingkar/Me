@@ -31,6 +31,8 @@
 - **DevOps & Tools:** Git, GitHub, GitLab, Docker, Jenkins, Maven, Kubernetes, JIRA, Postman, Redis, JDBC
 - **Cloud Services:** AWS (Lambda, EC2, S3), Azure DevOps
 - **Architecture:** RESTful APIs, Microservices, CI/CD pipelines, Unit Testing (JUnit, Mockito), MVC
+- **Certifications:**  
+  - AWS Certified Developer – Associate  
 
 ### 📊 Data Analyst / Data Science
 
@@ -39,10 +41,9 @@
 - **Visualization & BI Tools:** Power BI, Tableau, Google Analytics, Excel, Streamlit
 - **Big Data & Data Platforms:** Snowflake, Databricks, Azure Data Lake, AWS S3
 - **Certifications:**  
-  - AWS Certified Developer – Associate  
   - SQL for Data Science  
   - Tableau 10 Essential Training  
-  - Salesforce Admin Beginner
+  - Salesforce Admin Beginner (Trailhead)
 
 ---
 
@@ -73,6 +74,9 @@
 
 - [**Diabetes Prediction**](https://github.com/VaishnaviApsingkar/Diabetes_Prediction)  
   Built a machine learning model to predict diabetes likelihood using logistic regression and health indicators.
+
+- [**Image Caption Generator**](https://github.com/VaishnaviApsingkar/ImageCaptionGenerator)  
+  Built model for generating accurate, coherent captions for images
 
 ---
 
